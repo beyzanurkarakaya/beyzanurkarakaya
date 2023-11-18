@@ -32,5 +32,5 @@
 
 <!-- Mostly used languages -->
 <div align=center>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beyzanurkarakaya&langs_count=10&layout=compact" alt="beyzanurkarakaya :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=beyzanurkarakaya&show_icons=true&theme=gotham&locale=en&layout=compact" alt="beyzanurkarakaya" /></p>
 </div>
