@@ -41,6 +41,4 @@
 <br>
 
 <!-- Snake eating contributes -->
-<!--
-![snake gif](https://github.com/beyzanurkarkaya/beyzanurkarakaya/blob/output/github-contribution-grid-snake.svg)
--->
+![snake animation](https://github.com/<beyzanurkarakaya>/<beyzanurkarakaya>/blob/output/github-contribution-grid-snake2.svg)
