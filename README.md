@@ -51,3 +51,8 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/beyzanurkarakaya/beyzanurkarakaya/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
+
+<!-- Footer -->
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&height=85&color=9E01A7&section=footer"/>
+</p>
